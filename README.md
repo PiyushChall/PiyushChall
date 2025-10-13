@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushchall" alt="piyushchall" /></a> </p>
 
-- 🔭 I’m currently working on [Stock_Agent](https://github.com/PiyushChall/AI-agents/tree/main/Stock_Agent)
+- 🔭 I’m currently working on [Oryntiq](https://github.com/PiyushChall/Oryntiq)
 
-- 🌱 I’m currently learning **PyTorch and Artificial Intelligence**
+- 🌱 I’m currently learning **PyTorch, Artificial Intelligence, langchain and langraph**
 
-- 👯 I’m looking to collaborate on [Game_Agent](https://github.com/PiyushChall/AI-agents/tree/main/Game_Agent)
+- 👯 I’m looking to collaborate on [Oryntiq](https://github.com/PiyushChall/Oryntiq) And [Aether](https://github.com/PiyushChall/Aether)
 
 - 💬 Ask me about **Python, CrewAI, Artificial Intelligence**
 
